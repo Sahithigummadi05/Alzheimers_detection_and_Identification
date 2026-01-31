@@ -51,28 +51,28 @@ The frontend user interface.
 Follow these steps to set up the project on your local machine.
 
 ### 1. Clone the Repository
-bash
-git clone [https://github.com/Sahithigummadi05/Alzheimers_detection_and_Identification.git](https://github.com/Sahithigummadi05/Alzheimers_detection_and_Identification.git)
+* bash
+* git clone [https://github.com/Sahithigummadi05/Alzheimers_detection_and_Identification.git](https://github.com/Sahithigummadi05/Alzheimers_detection_and_Identification.git)
 
-2. Install Dependencies
-Ensure you have Python installed, then install the required libraries:
-
-Bash
-pip install numpy tensorflow keras flask pillow
-3. Run the Application
-Launch the web server:
+### 2. Install Dependencies
+* Ensure you have Python installed, then install the required libraries:
 
 Bash
-python app.py
-The terminal will verify that the server is running.
+* pip install numpy tensorflow keras flask pillow
+### 3. Run the Application
+* Launch the web server:
 
-Open your web browser and go to http://127.0.0.1:5000/.
+* Bash
+* python app.py
+* The terminal will verify that the server is running.
 
-4. Using the System
-Click the Upload button on the web page.
+* Open your web browser and go to http://127.0.0.1:5000/.
 
-Select an MRI image file from your computer.
+### 4. Using the System
+* Click the Upload button on the web page.
 
-View the immediate classification result on the screen.
-cd Alzheimers_detection_and_Identification
-View the immediate classification result on the screen.
+* Select an MRI image file from your computer.
+
+* View the immediate classification result on the screen.
+* cd Alzheimers_detection_and_Identification
+* View the immediate classification result on the screen.
