@@ -1,9 +1,0 @@
-streamlit
-numpy
-opencv-python
-pillow
-joblib
-nilearn
-scikit-learn
-fpdf
-matplotlib
